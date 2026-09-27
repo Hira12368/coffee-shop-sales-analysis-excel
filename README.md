@@ -36,7 +36,3 @@ This project demonstrates my ability to:
 - Present data in a clear and visually appealing format
 - Sales by Product Category
 - Customer Purchasing Patterns
-
-## Dashboard Preview
-
-![Coffee Shop Sales Dashboard](images/Screenshot 2026-09-27 170638)
